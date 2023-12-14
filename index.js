@@ -1,4 +1,6 @@
-debugger ;'use strict';
+'use strict';
+// to protect you from running this malicious code by mistake! remove at your own RISK!
+debugger;
 throw 111;
 (function(t, n) {
     const Mk = {
